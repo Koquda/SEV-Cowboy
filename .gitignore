@@ -1,0 +1,8 @@
+Intermediate/
+Build/
+Saved/
+DerivedDataCache/
+Binaries/
+
+# La carpeta de visual studio por si se usa ese IDE
+.vs/
